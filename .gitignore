@@ -1,0 +1,25 @@
+# Exported chat data — contains private conversations
+chats/
+chats (Copy)/
+
+# Checkpoint — contains thread IDs tied to your account
+checkpoint.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
